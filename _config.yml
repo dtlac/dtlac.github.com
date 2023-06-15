@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 em "github-pages", group: :jekyll_plugins
 title: Hi, I'm Dung Lac!
-description: Welcome to my scientific journey!
+description: I am a daughter, a sister, an amateur photographer, and last but not least a [micro + evolutionary] biologist
