@@ -1,4 +1,4 @@
-# **Welcome to my {scientific} journey!**
+# **About me**
 > “It’s not the years in your life that count; it’s the life in your years” - Abraham Lincoln
-## **About me**
-### I identify myself as a daughter, a sister, an amature photographer, and a [micro]biologist
+## 
+### I am a daughter, a sister, an amateur photographer, and last but not least a [micro + evolutionary] biologist
