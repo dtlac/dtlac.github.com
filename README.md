@@ -5,4 +5,4 @@ I completed my Bachelor’s in Biotechnology at the University of Science, Ho Ch
 During my Master’s in Biology at Georgia State University, I studied the microbiome in blue-banded goby fish.
 I have been studying the role of heat shock proteins HSP90 in the macroscopic adaptation of snowflake yeast through an evolutionary replay experiment.
 ### Snowflake yeast 
-(https://github.com/dtlac/dtlac.github.io/blob/main/images/Picture1.jpg)
+(https://github.com/dtlac/dtlac.github.io/images/Picture1.jpg)
